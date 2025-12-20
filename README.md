@@ -1,104 +1,94 @@
-# Hi 👋 I'm Priyanshu Raj  
+# Priyanshu Raj
+### Software Engineer Aspirant | DSA (C++) | MERN | AI & Cloud
 
-### Aspiring Software Engineer | Full-Stack (MERN) | AI & Cloud | DSA (C++)
-
-📍 Pune, Maharashtra, India  
-
----
-
-## 👨‍💻 About Me  
-
-I’m a **Computer Science & Design undergraduate** with strong skills in  
-**Data Structures & Algorithms (C++)**, **MERN full-stack development**, and  
-**AI & Cloud (Google Cloud, Generative AI)**.
-
-I build **scalable, end-to-end applications**, solve **real-world problems**,  
-and continuously improve through **problem solving and community leadership**.
+📍 Pune, India | 🎓 CS & Design Undergraduate  
 
 ---
 
-## 🛠️ Tech Stack  
+## Summary
 
-**Languages & DSA**  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+Problem-driven **Software Engineer aspirant** with strong command over  
+**Data Structures & Algorithms (C++)**, hands-on **MERN full-stack development**,  
+and experience building **AI-powered cloud applications**.
 
-**MERN Stack**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-**AI & Cloud**  
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-0F9D58?style=flat)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=flat)
+Actively solving algorithmic problems, building scalable systems,  
+and contributing to tech communities.
 
 ---
 
-## 🧠 DSA & Problem Solving  
+## Core Competencies
 
-![DSA](https://img.shields.io/badge/Data%20Structures-%23007ACC?style=flat)
-![Algorithms](https://img.shields.io/badge/Algorithms-%23FF5733?style=flat)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-%2328A745?style=flat)
-![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-%236C3483?style=flat)
+**Data Structures & Algorithms**
+- Arrays, Strings, Recursion
+- Linked List, Stack, Queue
+- Trees, Graphs, Dynamic Programming
+- Time & Space Complexity Optimization
 
-💡 Focus Areas:
-- Arrays, Strings, Recursion  
-- Linked List, Stack, Queue  
-- Trees, Graphs, DP  
-- Time & Space Optimization  
+**Full-Stack (MERN)**
+- React.js, Node.js, Express.js
+- MongoDB, REST APIs
+- Authentication & Database Design
 
----
-
-## 📌 Highlight Projects  
-
-🔹 **Smart Inventory Order Management System**  
-- MERN full-stack application  
-- Secure authentication, API design, database modeling  
-
-🔹 **Job Portal**  
-- Role-based access system  
-- Responsive React UI  
-
-🔹 **Slot Swapper**  
-- Logic-driven UI handling  
-- Real-world problem simulation  
+**AI & Cloud**
+- Google Cloud Platform
+- Vertex AI, BigQuery
+- Generative AI & LLM-based Apps
 
 ---
 
-## 🏆 Experience & Leadership  
+## Selected Projects
 
-- **Microsoft Learn Student Ambassador**  
-  - Community engagement, leadership & tech advocacy  
+**Smart Inventory Order Management System**
+- Full-stack MERN application
+- Secure authentication & role-based access
+- Optimized backend APIs and database schema
 
-- **Front-End Developer Intern – CODEXINTERN**  
-  - Responsive UI & best practices  
+**Job Portal**
+- Scalable MERN architecture
+- Responsive UI & clean UX
+- End-to-end system ownership
 
-- **Google Cloud Generative AI – SmartBridge**  
-  - LLM-powered apps using Vertex AI & BigQuery  
+**Slot Swapper**
+- Logic-intensive frontend project
+- Real-world problem simulation
 
 ---
 
-## 📊 GitHub Stats  
+## Experience
+
+**Microsoft Learn Student Ambassador**
+- Global tech community engagement
+- Leadership & communication development
+
+**Front-End Developer Intern – CODEXINTERN**
+- Built responsive, production-ready UI
+- Followed modern frontend best practices
+
+**Google Cloud Generative AI – SmartBridge**
+- Built LLM-powered applications
+- Worked with Vertex AI & BigQuery
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu87571&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu87571&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu87571&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu87571&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu87571&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-## 📫 Connect With Me  
+## Coding Philosophy
 
-- 💼 LinkedIn: https://www.linkedin.com/in/priyanshu-raj-162763306  
-- 💻 GitHub: https://github.com/Priyanshu87571  
-- 📧 Email: priyanshu875717@gmail.com  
+> *Write clean code.  
+Optimize for scale.  
+Solve real problems.*
 
 ---
 
-⭐ *Building skills today for impactful software tomorrow.*
+## Contact
+
+- GitHub: https://github.com/Priyanshu87571  
+- LinkedIn: https://www.linkedin.com/in/priyanshu-raj-162763306  
+- Email: priyanshu875717@gmail.com
