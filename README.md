@@ -1,104 +1,122 @@
-# Hi 👋 I'm Priyanshu Raj  
+# Priyanshu Raj
+### Software Engineer Aspirant | DSA (C++) | MERN | AI & Cloud
 
-### Aspiring Software Engineer | Full-Stack (MERN) | AI & Cloud | DSA (C++)
+📍 Pune, India | 🎓 Computer Science & Design Undergraduate  
 
-📍 Pune, Maharashtra, India  
-
----
-
-## 👨‍💻 About Me  
-
-I’m a **Computer Science & Design undergraduate** with strong skills in  
-**Data Structures & Algorithms (C++)**, **MERN full-stack development**, and  
-**AI & Cloud (Google Cloud, Generative AI)**.
-
-I build **scalable, end-to-end applications**, solve **real-world problems**,  
-and continuously improve through **problem solving and community leadership**.
+> Consistent problem solver building scalable systems and real-world applications.
 
 ---
 
-## 🛠️ Tech Stack  
+## Summary
 
-**Languages & DSA**  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+Software Engineer aspirant with a strong foundation in  
+**Data Structures & Algorithms (C++)**, hands-on **MERN full-stack development**,  
+and experience building **AI-powered cloud applications**.
 
-**MERN Stack**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-**AI & Cloud**  
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-0F9D58?style=flat)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=flat)
+Focused on writing clean, optimized code and solving real-world problems through
+scalable system design.
 
 ---
 
-## 🧠 DSA & Problem Solving  
+## 🚀 Currently Working On
 
-![DSA](https://img.shields.io/badge/Data%20Structures-%23007ACC?style=flat)
-![Algorithms](https://img.shields.io/badge/Algorithms-%23FF5733?style=flat)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-%2328A745?style=flat)
-![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-%236C3483?style=flat)
-
-💡 Focus Areas:
-- Arrays, Strings, Recursion  
-- Linked List, Stack, Queue  
-- Trees, Graphs, DP  
-- Time & Space Optimization  
+- Advanced **DSA & Competitive Programming (C++)**
+- Building **scalable MERN applications**
+- Developing **LLM-powered apps on Google Cloud**
+- Strengthening **system design fundamentals**
 
 ---
 
-## 📌 Highlight Projects  
+## Core Competencies
 
-🔹 **Smart Inventory Order Management System**  
-- MERN full-stack application  
-- Secure authentication, API design, database modeling  
+### Data Structures & Algorithms
+- Arrays, Strings, Recursion
+- Linked List, Stack, Queue
+- Trees, Graphs, Dynamic Programming
+- Time & Space Complexity Optimization
 
-🔹 **Job Portal**  
-- Role-based access system  
-- Responsive React UI  
+### Full-Stack Development (MERN)
+- React.js, Node.js, Express.js
+- MongoDB, REST APIs
+- Secure Authentication & Database Design
 
-🔹 **Slot Swapper**  
-- Logic-driven UI handling  
-- Real-world problem simulation  
-
----
-
-## 🏆 Experience & Leadership  
-
-- **Microsoft Learn Student Ambassador**  
-  - Community engagement, leadership & tech advocacy  
-
-- **Front-End Developer Intern – CODEXINTERN**  
-  - Responsive UI & best practices  
-
-- **Google Cloud Generative AI – SmartBridge**  
-  - LLM-powered apps using Vertex AI & BigQuery  
+### AI & Cloud
+- Google Cloud Platform
+- Vertex AI, BigQuery
+- Generative AI & LLM-based Applications
 
 ---
 
-## 📊 GitHub Stats  
+## Selected Projects
+
+### Smart Inventory Order Management System
+- End-to-end MERN application
+- Secure authentication & role-based access
+- Optimized APIs and database schema
+
+### Job Portal
+- Scalable MERN architecture
+- Responsive UI with React
+- End-to-end ownership from backend to frontend
+
+### Slot Swapper
+- Logic-intensive frontend project
+- Real-world problem simulation
+
+---
+
+## 🧠 Problem Solving
+
+- Solved **250+ DSA problems**
+- Strong focus on efficiency & optimization
+
+**Profiles**
+- LeetCode: https://leetcode.com/
+- GeeksforGeeks: https://auth.geeksforgeeks.org/user/
+- HackerRank: https://www.hackerrank.com/
+
+---
+
+## Experience & Leadership
+
+**Microsoft Learn Student Ambassador**
+- Global tech community engagement
+- Leadership, communication & mentorship
+
+**Front-End Developer Intern – CODEXINTERN**
+- Built responsive, production-ready UI
+- Followed modern frontend best practices
+
+**Google Cloud Generative AI – SmartBridge**
+- Built LLM-powered applications
+- Worked with Vertex AI & BigQuery
+
+---
+
+## ⚙️ Tools & Workflow
+
+- Git & GitHub
+- VS Code
+- Postman
+- Linux (Basics)
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu87571&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu87571&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu87571&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu87571&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu87571&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-## 📫 Connect With Me  
+## Contact
 
-- 💼 LinkedIn: https://www.linkedin.com/in/priyanshu-raj-162763306  
-- 💻 GitHub: https://github.com/Priyanshu87571  
-- 📧 Email: priyanshu875717@gmail.com  
+- GitHub: https://github.com/Priyanshu87571
+- LinkedIn: https://www.linkedin.com/in/priyanshu-raj-162763306
+- Email: priyanshu875717@gmail.com
 
 ---
 
-⭐ *Building skills today for impactful software tomorrow.*
+⭐ Building skills today for impactful software tomorrow.
