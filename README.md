@@ -71,9 +71,7 @@ scalable system design.
 - Strong focus on efficiency & optimization
 
 **Profiles**
-- LeetCode: https://leetcode.com/
-- GeeksforGeeks: https://auth.geeksforgeeks.org/user/
-- HackerRank: https://www.hackerrank.com/
+- GeeksforGeeks: [https://auth.geeksforgeeks.org/user/](https://www.geeksforgeeks.org/profile/priyansh4ipj)
 
 ---
 
