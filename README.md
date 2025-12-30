@@ -100,14 +100,7 @@ scalable system design.
 
 ---
 
-## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu87571&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu87571&theme=tokyonight" height="160"/>
-</p>
-
----
 
 ## Contact
 
