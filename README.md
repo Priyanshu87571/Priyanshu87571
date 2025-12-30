@@ -100,7 +100,6 @@ scalable system design.
 
 ---
 
-
 ## Contact
 
 - GitHub: https://github.com/Priyanshu87571
