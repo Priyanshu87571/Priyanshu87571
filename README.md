@@ -105,7 +105,7 @@ scalable system design.
 - GitHub: https://github.com/Priyanshu87571
 - LinkedIn: https://www.linkedin.com/in/priyanshu-raj-162763306
 - Email: priyanshu875717@gmail.com
-- GeeksforGeeks: https://www.geeksforgeeks.org/profile/priyansh4ipj?tab=overview
+- GeeksforGeeks: https://www.geeksforgeeks.org/profile/priyansh4ipj
 ---
 
 ⭐ Building skills today for impactful software tomorrow.
