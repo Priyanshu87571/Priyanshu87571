@@ -77,7 +77,7 @@ scalable system design.
 
 ## Experience & Leadership
 
-**Microsoft Learn Student Ambassador**
+**Microsoft Student Ambassador**
 - Global tech community engagement
 - Leadership, communication & mentorship
 
