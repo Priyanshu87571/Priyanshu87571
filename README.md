@@ -106,7 +106,7 @@ scalable system design.
 - LinkedIn: https://www.linkedin.com/in/priyanshu-raj-162763306
 - Email: priyanshu875717@gmail.com
 - GeeksforGeeks: https://www.geeksforgeeks.org/profile/priyansh4ipj
-- Contact No: 8757174700
+- Contact No: +91 8757174700
 ---
 
 ⭐ Building skills today for impactful software tomorrow.
