@@ -93,7 +93,7 @@ I’m comfortable using Git and navigating open-source repositories, and I’m c
 
 - Git & GitHub
 - VS Code
-- Postman
+- Pos
 - Linux (Basics)
 
 ---
