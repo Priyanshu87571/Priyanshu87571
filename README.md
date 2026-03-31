@@ -16,7 +16,7 @@ I’m comfortable using Git and navigating open-source repositories, and I’m c
 
 ---
 
-##  Currently Working On
+## Currently Working On
 
 - Advanced **DSA & Competitive Programming (C++)**
 - Building **scalable MERN applications**
