@@ -9,12 +9,10 @@
 
 ## Summary
 
-Software Engineer aspirant with a strong foundation in  
-**Data Structures & Algorithms (C++)**, hands-on **MERN full-stack development**,  
-and experience building **AI-powered cloud applications**.
-
-Focused on writing clean, optimized code and solving real-world problems through
-scalable system design.
+My name is Priyanshu Raj, and I’m currently pursuing a Bachelor’s degree in Computer Science and Design. I have a strong foundation in Data Structures and Algorithms in C++, and hands-on experience in full-stack web development using the MERN stack.
+I have worked on several end-to-end projects, including a Smart Inventory Order Management System, a Job Portal, and Slot Swapper. In these projects, I handled API design, secure authentication, database modeling, and building responsive user interfaces with React.
+I’m also actively involved in campus communities as a Microsoft Student Ambassador, GeeksforGeeks Campus Mantri, and Edwise International Campus Ambassador, where I’ve participated in peer learning and technical discussions, improving my communication and collaboration skills.
+I’m comfortable using Git and navigating open-source repositories, and I’m continuously working on improving my understanding of systems and low-level programming.
 
 ---
 
