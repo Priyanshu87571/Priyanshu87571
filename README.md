@@ -1,4 +1,4 @@
-  # Priyanshu Raj
+# Priyanshu Raj
 ### Software Engineer Aspirant | DSA (C++) | MERN | AI & Cloud
 
 📍 Pune, India | 🎓 Computer Science & Design Undergraduate  
