@@ -134,3 +134,5 @@ I’m comfortable using Git and navigating open-source repositories, and I’m c
 ---
 
 ⭐ Building skills today for impactful software tomorrow.
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu87571&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu87571&theme=tokyonight&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu87571&layout=compact&theme=tokyonight&hide_border=true"/> </p>
