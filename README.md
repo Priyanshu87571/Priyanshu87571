@@ -140,7 +140,7 @@ Cloud/AI:      Google Cloud | Vertex AI | BigQuery
 
 ## 🌐 Portfolio
 
-
+https://priyanshu-portfolio-dusky.vercel.app
 
 ---
 
