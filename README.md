@@ -39,7 +39,7 @@ Cloud/AI:      Google Cloud | Vertex AI | BigQuery
 
 ---
 
-## 🚀 Featured Projects (Engineering Focus)
+## Featured Projects (Engineering Focus)
 
 ### 📦 Smart Inventory Order Management System
 
