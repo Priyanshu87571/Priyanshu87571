@@ -1,4 +1,4 @@
-# 🚀 Priyanshu Raj
+# Priyanshu Raj
 
 ### Software Engineer | DSA (C++) | MERN | AI & Cloud
 
