@@ -1,12 +1,39 @@
-# Priyanshu Raj
-### Software Engineer Aspirant | DSA (C++) | MERN | AI & Cloud
+# 🚀 Priyanshu Raj  
+### Software Engineer | DSA (C++) | MERN | AI & Cloud  
 
-📍 Pune, India | 🎓 Computer Science & Design Undergraduate  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Designing+Scalable+Systems;Full-Stack+MERN+Developer;DSA+%7C+Problem+Solver;AI+%26+Cloud+Builder" />
+</p>
 
-> Consistent problem solver building scalable systems and real-world applications.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Priyanshu87571&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Priyanshu87571?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/Priyanshu87571?affiliations=OWNER&style=social" />
+</p>
 
 ---
 
+## 👨‍💻 About Me  
+
+- 🎓 Computer Science Undergraduate (2023–2027)  
+- 🧠 Strong in **DSA, Problem Solving & Optimization**  
+- ⚙️ Focused on **Scalable Systems & Backend Architecture**  
+- 🌐 Full-stack developer (**MERN Stack**)  
+- 🤖 Building **AI-powered applications using Google Cloud**  
+
+> I don’t just build projects — I design systems that scale.
+
+---
+
+## 🧠 Tech Stack  
+
+```text
+Languages:     C++ | JavaScript | Python  
+Frontend:      React.js | Next.js | HTML | CSS  
+Backend:       Node.js | Express.js  
+Database:      MongoDB | MySQL  
+Tools:         Git | GitHub | Postman | VS Code  
+Cloud/AI:      Google Cloud | Vertex AI | BigQuery  
 ## Summary
 
 My name is Priyanshu Raj, and I’m currently pursuing a Bachelor’s degree in Computer Science and Design. I have a strong foundation in Data Structures and Algorithms in C++, and hands-on experience in full-stack web development using the MERN stack.
