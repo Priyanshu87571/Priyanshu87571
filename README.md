@@ -65,7 +65,7 @@ Cloud/AI:      Google Cloud | Vertex AI | BigQuery
 
 ---
 
-### 🔄 Slot Swapper
+### Slot Swapper
 
 **Problem:** Scheduling conflicts
 **Solution:** Logic-based system
