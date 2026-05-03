@@ -78,15 +78,13 @@ Cloud/AI:      Google Cloud | Vertex AI | BigQuery
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu87571&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu87571&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu87571&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Priyanshu87571&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu87571&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu87571&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
 
 ## 📈 Contribution Graph
 
