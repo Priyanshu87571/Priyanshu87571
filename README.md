@@ -130,7 +130,7 @@ Cloud/AI:      Google Cloud | Vertex AI | BigQuery
 
 ## 🏆 Achievements
 
-* 🟢 Microsoft Learn Student Ambassador
+* 🟢 Microsoft Student Ambassador
 * 🟢 GeeksforGeeks Campus Mantri
 * 🟢 Campus Ambassador — Edwise
 
